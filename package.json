@@ -1,11 +1,11 @@
 {
-  "name": "charutha-MD",
+  "name": "asitha-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "start.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name charutha-MD",
-    "stop": "pm2 stop charutha-MD",
+    "start": "pm2 start start.js --deep-monitoring --attach --name asitha-MD",
+    "stop": "pm2 stop asitha-MD",
     "restart": "pm2 restart charutha-MD"
   },
   "dependencies": {
