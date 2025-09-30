@@ -6,7 +6,7 @@
   "scripts": {
     "start": "pm2 start start.js --deep-monitoring --attach --name asitha-MD",
     "stop": "pm2 stop asitha-MD",
-    "restart": "pm2 restart charutha-MD"
+    "restart": "pm2 restart asitha-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:asitha-baliyes-new",
